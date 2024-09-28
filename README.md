@@ -1,4 +1,4 @@
-https://dblp.org/db/conf/ches# Awesome implementation attack resources [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Awesome implementation attack resources [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 <!--- ==================================================================== --->
 
