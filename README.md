@@ -4,7 +4,7 @@
 
 *This is
 a curated list of awesome resources related to the topic of (cryptographic) implementation attacks:
-not that resource is loosely defined, but the aim is **not** to simply list
+note that resource is loosely defined, but the aim is **not** to simply list
 every related research paper (since there are too many).
 The principle of such attacks is a focus on concrete implementation versus 
 abstract specification of a cryptographic construction.  Concrete instances 
