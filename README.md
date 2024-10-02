@@ -94,7 +94,11 @@ attack instances.*
 - [ChipWhisperer](https://www.newae.com/chipwhisperer) [[paper](https://dblp.org/rec/conf/cosade/OFlynnC14.html)]
 - [ChipShouter](https://www.newae.com/chipshouter)
 - [Flexible Opensource workBench fOr Side-channel analysis (FOBOS)](https://cryptography.gmu.edu/documentation/fobos3)
+- [HorrorScope](https://github.com/albert-spruyt/HorrorScope)
+- [Generic Implementation ANalysis Toolkit (GIAnT)](https://sourceforge.net/projects/giant)
 - [SCALE](https://github.com/danpage/scale-hw)
+- [DPA WorkStation (DPAWS)](https://www.rambus.com/security/dpa-countermeasures/dpa-workstation-platform)
+- [Inspector SCA](https://www.riscure.com/security-tools/inspector-sca)
 
 <!--- -------------------------------------------------------------------- --->
 
@@ -135,6 +139,7 @@ attack instances.*
 ### Exercises
 
 - [SCALE](https://github.com/danpage/scale-sw)
+- [cryptopals](https://cryptopals.com)
 
 <!--- ==================================================================== --->
 
