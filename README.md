@@ -106,15 +106,16 @@ attack instances.*
 
 #### Frameworks/libraries for analysis
 
-- [SCALib](https://github.com/simple-crypto/SCALib) [[paper](https://dblp.org/rec/journals/jossw/CassiersB23.html)]
-- [Lascar](https://github.com/Ledger-Donjon/lascar)
-- [Side-Channel Marvels](https://github.com/SideChannelMarvels)
 - [Jlsca](https://github.com/Riscure/Jlsca)
+- [Lascar](https://github.com/Ledger-Donjon/lascar)
 - [Pysca](https://github.com/ikizhvatov/pysca)
+- [SCALib](https://github.com/simple-crypto/SCALib) [[paper](https://dblp.org/rec/journals/jossw/CassiersB23.html)]
 - [Scared](https://gitlab.com/eshard/scared)
+- [Side-Channel Marvels](https://github.com/SideChannelMarvels)
 
 #### Frameworks/libraries for attacks
 
+- [Findus](https://github.com/MKesenheimer/fault-injection-library)
 - [Mastik](https://github.com/0xADE1A1DE/Mastik)
 
 #### Frameworks/libraries with security-enhancing properties
@@ -123,9 +124,9 @@ attack instances.*
 
 #### Tools for leakage simulation (see [related](https://ileanabuhan.github.io/Tools) list)
 
+- ABBY [[paper](https://dblp.org/rec/conf/asiaccs/BazanganiIBB24)]
 - [ELMO](https://github.com/sca-research/ELMO) [[paper](https://dblp.org/rec/conf/uss/McCannOW17.html)]
 - [GILES](https://github.com/sca-research/GILES)
-- ABBY [[paper](https://dblp.org/rec/conf/asiaccs/BazanganiIBB24)]
 
 #### Tools for efficiency- and/or security-enhancing translation, compilation, etc.
 
