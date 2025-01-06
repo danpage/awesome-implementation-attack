@@ -54,10 +54,13 @@ attack instances.*
 
 #### Hard-copy
 
-- E. Oswald, S. Mangard, and T. Popp: ["*Power Analysis Attacks: Revealing the Secrets of Smart Cards*"](https://link.springer.com/book/10.1007/978-0-387-38162-6)
-- M. Joye and M. Tunstall: ["*Fault Analysis in Cryptography*"](https://link.springer.com/book/10.1007/978-3-642-29656-7)
 - J. Breier and X. Hou: ["*Cryptography and Embedded Systems Security*"](https://link.springer.com/book/10.1007/978-3-031-62205-2)
+- W. Cheng, S. Guilley, and O. Rioul: [*Mathematical Foundations for Side-Channel Analysis of Cryptographic Systems*](https://link.springer.com/book/10.1007/978-3-031-64399-6)
 - F. Farahmandi, M. Tehranipoor, and N.N. Anandakumar: ["*Hardware Security Training, Hands-on!*"](https://link.springer.com/book/10.1007/978-3-031-31034-8)
+- X. Hou and J. Breier: [*Cryptography and Embedded Systems Security*](https://link.springer.com/book/10.1007/978-3-031-62205-2)
+- M. Joye and M. Tunstall: ["*Fault Analysis in Cryptography*"](https://link.springer.com/book/10.1007/978-3-642-29656-7)
+- E. Oswald, S. Mangard, and T. Popp: ["*Power Analysis Attacks: Revealing the Secrets of Smart Cards*"](https://link.springer.com/book/10.1007/978-0-387-38162-6)
+- M. Ouladj and S. Guilley: [*Side-Channel Analysis of Embedded Systems: An Efficient Algorithmic Approach Hardcover*](https://link.springer.com/book/10.1007/978-3-030-77222-2)
 - C. Rebeiro, D. Mukhopadhyay, and S. Bhattacharya: ["*Timing Channels in Cryptography*"](https://link.springer.com/book/10.1007/978-3-319-12370-7)
 
 #### Online, including, e.g., lecture notes etc.
